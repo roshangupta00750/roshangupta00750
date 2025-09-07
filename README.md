@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as software engineer with a passion for data science and analytics. <br>⚡ shoot me an Email (mailto.roshangupta@gmail.com) or add me on linked in
+🔭 I’m currently working as software engineer with a passion for data science and analytics. <br>⚡ shoot me an Email (mail.roshankumargupta@gmail.com) or add me on linked in
 
 
 ## 🌐 Socials:
