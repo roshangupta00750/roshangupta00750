@@ -1,17 +1,31 @@
-# 💫 About Me:
-🔭 I’m currently working as software engineer with a passion for data science and analytics. <br>⚡ shoot me an Email (mail.roshankumargupta@gmail.com) or add me on linked in
+## Hi, I'm Roshan
 
+M.Sc. Computer Science student at Julius-Maximilians-Universität Würzburg, Germany. Before my Master's I spent four years in data roles: three years as a Business Intelligence Analyst at Amazon (CMT & Amazon Pay) and seven months as a Data Analyst at The Indian Garage Co. I'm looking for a working-student role in machine learning or data.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100008494298001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/roshan-gupta-a3a545107/) 
+### What I'm building
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roshangupta00750&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=roshangupta00750&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshangupta00750&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **Knot AI**: two on-device models I trained.
+  - **Knot Scribe** (7B, LoRA fine-tune of Qwen2.5-Coder-7B) writes git commit messages. 60% type accuracy and 75% scope accuracy on a balanced held-out set. Open weights on [Hugging Face](https://huggingface.co/pointbreaklab/knot-scribe) and [Ollama](https://ollama.com/pointbreaklab/knot-ai).
+  - **Knot Delta** (9B) turns a diff into a grounded change-and-risk report. On 325 held-out commits from 9 unseen repos, every file it cites exists in the diff, and 98.5% of reports are fully grounded. [Hugging Face](https://huggingface.co/pointbreaklab/knot-delta)
+- **Research practicum at JMU**: benchmarking Transformer forecasters (TFT, PatchTST, iTransformer) against LSTM, XGBoost and DLinear for crop-yield prediction across about 400 German districts, 2003 to 2023.
+- **Apps at [pointbreaklab.com](https://pointbreaklab.com)**: Whispr (end-to-end encrypted messenger on the Signal Protocol, over LAN, Tor or Bluetooth mesh), Heart (on-device HRV analysis for Bluetooth heart-rate straps) and Knot (peer-to-peer version control in Rust).
 
----
-[![](https://visitcount.itsvg.in/api?id=roshangupta00750&icon=0&color=0)](https://visitcount.itsvg.in)
+The source code for Knot, Whispr and Heart is private. The models and apps are public at the links above.
 
+### Public repos here
+
+- [geckotestbed](https://github.com/roshangupta00750/geckotestbed): operator UI for the Gecko adhesion testbed (JMU and TU Berlin), Three.js
+- [Driverless-AI](https://github.com/roshangupta00750/Driverless-AI): self-driving car projects (lane finding, traffic-sign classification, behavioural cloning, Kalman filters, MPC)
+
+### Stack
+
+- **Data and ML:** Python, SQL, Pandas, NumPy, scikit-learn, PyTorch, XGBoost, ARIMA / Prophet, Power BI, Tableau, Alteryx
+- **LLMs:** QLoRA / PEFT fine-tuning, GGUF, llama.cpp, Hugging Face, Ollama, Model Context Protocol
+- **Software:** Rust, Kotlin, Flutter / Dart, Java, JavaScript / TypeScript, Git, Docker, Linux
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/roshan-kumar-gupta-a3a545107/) · [pointbreaklab.com](https://pointbreaklab.com) · mail.roshankumargupta@gmail.com
+
+Würzburg, Germany · English (fluent), Hindi (native), German (A2, actively learning B1)
