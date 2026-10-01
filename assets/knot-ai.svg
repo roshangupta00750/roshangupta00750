@@ -9,11 +9,11 @@
 <text class="t fade d1" x="32" y="94" font-size="34" font-weight="800" fill="#F1F5F9">Knot AI</text>
 <text class="t fade d1" x="32" y="124" font-size="14" fill="#94A3B8">Two models I trained to run</text>
 <text class="t fade d1" x="32" y="143" font-size="14" fill="#94A3B8">locally, with no cloud calls.</text>
-<g class="fade d2"><rect x="32" y="172" width="54" height="24" rx="12.0" fill="#3B2F0E" stroke="#FBBF24" stroke-opacity=".35"/><text class="t" x="59.0" y="188.32" font-size="12" fill="#FBBF24" text-anchor="middle" font-weight="600">QLoRA</text>
-<rect x="94" y="172" width="47" height="24" rx="12.0" fill="#3B2F0E" stroke="#FBBF24" stroke-opacity=".35"/><text class="t" x="117.5" y="188.32" font-size="12" fill="#FBBF24" text-anchor="middle" font-weight="600">GGUF</text>
-<rect x="149" y="172" width="82" height="24" rx="12.0" fill="#3B2F0E" stroke="#FBBF24" stroke-opacity=".35"/><text class="t" x="190.0" y="188.32" font-size="12" fill="#FBBF24" text-anchor="middle" font-weight="600">llama.cpp</text></g>
-<g class="fade d2"><rect x="32" y="204" width="103" height="24" rx="12.0" fill="#3B2F0E" stroke="#FBBF24" stroke-opacity=".35"/><text class="t" x="83.5" y="220.32" font-size="12" fill="#FBBF24" text-anchor="middle" font-weight="600">Hugging Face</text>
-<rect x="143" y="204" width="61" height="24" rx="12.0" fill="#3B2F0E" stroke="#FBBF24" stroke-opacity=".35"/><text class="t" x="173.5" y="220.32" font-size="12" fill="#FBBF24" text-anchor="middle" font-weight="600">Ollama</text></g>
+<g class="fade d2"><rect x="32" y="172" width="57" height="24" rx="12.0" fill="#3B2F0E" stroke="#FBBF24" stroke-opacity=".35"/><text class="t" x="60.5" y="188.32" font-size="12" fill="#FBBF24" text-anchor="middle" font-weight="600" textLength="37" lengthAdjust="spacingAndGlyphs">QLoRA</text>
+<rect x="97" y="172" width="49" height="24" rx="12.0" fill="#3B2F0E" stroke="#FBBF24" stroke-opacity=".35"/><text class="t" x="121.5" y="188.32" font-size="12" fill="#FBBF24" text-anchor="middle" font-weight="600" textLength="29" lengthAdjust="spacingAndGlyphs">GGUF</text>
+<rect x="154" y="172" width="86" height="24" rx="12.0" fill="#3B2F0E" stroke="#FBBF24" stroke-opacity=".35"/><text class="t" x="197.0" y="188.32" font-size="12" fill="#FBBF24" text-anchor="middle" font-weight="600" textLength="66" lengthAdjust="spacingAndGlyphs">llama.cpp</text></g>
+<g class="fade d2"><rect x="32" y="204" width="109" height="24" rx="12.0" fill="#3B2F0E" stroke="#FBBF24" stroke-opacity=".35"/><text class="t" x="86.5" y="220.32" font-size="12" fill="#FBBF24" text-anchor="middle" font-weight="600" textLength="89" lengthAdjust="spacingAndGlyphs">Hugging Face</text>
+<rect x="149" y="204" width="64" height="24" rx="12.0" fill="#3B2F0E" stroke="#FBBF24" stroke-opacity=".35"/><text class="t" x="181.0" y="220.32" font-size="12" fill="#FBBF24" text-anchor="middle" font-weight="600" textLength="44" lengthAdjust="spacingAndGlyphs">Ollama</text></g>
 
 <g class="fade d3">
   <rect x="296" y="34" width="250" height="182" rx="12" fill="#0B1220" stroke="#22314F"/>

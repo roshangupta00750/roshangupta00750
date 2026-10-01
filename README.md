@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg?v=3" width="100%" alt="Roshan Kumar Gupta: M.Sc. Computer Science, JMU Würzburg. Open to working-student roles in ML and data." />
+  <img src="assets/header.svg?v=4" width="100%" alt="Roshan Kumar Gupta: M.Sc. Computer Science, JMU Würzburg. Open to working-student roles in ML and data." />
 </p>
 
 <p align="center">
@@ -9,18 +9,18 @@
   <a href="mailto:mail.roshankumargupta@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<a href="https://github.com/Osmantic/ODS/pulls?q=is%3Apr+author%3Aroshangupta00750+is%3Amerged"><img src="assets/ods.svg?v=3" width="100%" alt="Open source: ODS by Osmantic. 50+ merged pull requests, top 10 of 63 contributors, 6.9k-star project" /></a>
+<a href="https://github.com/Osmantic/ODS/pulls?q=is%3Apr+author%3Aroshangupta00750+is%3Amerged"><img src="assets/ods.svg?v=4" width="100%" alt="Open source: ODS by Osmantic. 50+ merged pull requests, top 10 of 63 contributors, 6.9k-star project" /></a>
 
-<a href="https://pointbreaklab.com/knot-ai/"><img src="assets/knot-ai.svg?v=3" width="100%" alt="Knot AI: Knot Scribe 7B, 60% commit-type accuracy; Knot Delta 9B, 98.5% fully grounded change reports" /></a>
+<a href="https://pointbreaklab.com/knot-ai/"><img src="assets/knot-ai.svg?v=4" width="100%" alt="Knot AI: Knot Scribe 7B, 60% commit-type accuracy; Knot Delta 9B, 98.5% fully grounded change reports" /></a>
 
 <p>
-  <img src="assets/research.svg?v=3" width="49%" alt="Crop-yield forecasting research practicum at JMU" />
-  <a href="https://pointbreaklab.com/knot/"><img src="assets/knot.svg?v=3" width="49%" alt="Knot: peer-to-peer version control in Rust" /></a>
-  <a href="https://pointbreaklab.com/whispr/"><img src="assets/whispr.svg?v=3" width="49%" alt="Whispr: serverless encrypted messenger on the Signal Protocol" /></a>
-  <a href="https://pointbreaklab.com/heart/"><img src="assets/heart.svg?v=3" width="49%" alt="Heart: on-device heart-rate analytics" /></a>
+  <img src="assets/research.svg?v=4" width="49%" alt="Crop-yield forecasting research practicum at JMU" />
+  <a href="https://pointbreaklab.com/knot/"><img src="assets/knot.svg?v=4" width="49%" alt="Knot: peer-to-peer version control in Rust" /></a>
+  <a href="https://pointbreaklab.com/whispr/"><img src="assets/whispr.svg?v=4" width="49%" alt="Whispr: serverless encrypted messenger on the Signal Protocol" /></a>
+  <a href="https://pointbreaklab.com/heart/"><img src="assets/heart.svg?v=4" width="49%" alt="Heart: on-device heart-rate analytics" /></a>
 </p>
 
-<img src="assets/experience.svg?v=3" width="100%" alt="Before my Master's: Amazon BI Analyst and TIGC Data Analyst. 99.6% reporting accuracy, 60% faster KPI computation, 17.6M records, 33% retention uplift" />
+<img src="assets/experience.svg?v=4" width="100%" alt="Before my Master's: Amazon BI Analyst and TIGC Data Analyst. 99.6% reporting accuracy, 60% faster KPI computation, 17.6M records, 33% retention uplift" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,rust,kotlin,flutter,dart,java,ts,postgres,mysql,mongodb,sqlite,docker,git,linux&perline=8&theme=dark" alt="Python, PyTorch, scikit-learn, Rust, Kotlin, Flutter, Dart, Java, TypeScript, PostgreSQL, MySQL, MongoDB, SQLite, Docker, Git, Linux" />

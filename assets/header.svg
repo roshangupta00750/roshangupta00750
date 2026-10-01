@@ -11,8 +11,8 @@
 <text class="t fade d1" x="50" y="124" font-size="16" fill="#94A3B8">M.Sc. Computer Science · Julius-Maximilians-Universität Würzburg</text>
 <text class="t fade d2" x="50" y="158" font-size="17" fill="#F1F5F9">I train small language models and build <tspan fill="#2DD4BF" font-weight="700">privacy-first apps</tspan>.</text>
 <g class="fade d3">
-  <rect x="50" y="178" width="272" height="28" rx="14" fill="#0E3B2E" stroke="#34D399" stroke-opacity=".4"/>
+  <rect x="50" y="178" width="318" height="28" rx="14" fill="#0E3B2E" stroke="#34D399" stroke-opacity=".4"/>
   <circle cx="68" cy="192" r="5" fill="#34D399"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
-  <text class="t" x="82" y="197" font-size="13" font-weight="600" fill="#A7F3D0">Open to working-student roles · ML &amp; Data</text>
+  <text class="t" x="82" y="197" font-size="13" font-weight="600" fill="#A7F3D0" textLength="268" lengthAdjust="spacingAndGlyphs">Open to working-student roles · ML &amp; Data</text>
 </g>
 </svg>

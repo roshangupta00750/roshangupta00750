@@ -7,13 +7,13 @@
 
 <rect x="0" y="0" width="6" height="210" fill="#38BDF8" fill-opacity=".9" clip-path="url(#card)"/>
 <text class="t fade" x="28" y="40" font-size="10.5" font-weight="700" letter-spacing="1.8" fill="#38BDF8">PEER-TO-PEER VERSION CONTROL</text>
-<rect class="fade" x="355" y="24" width="35" height="22" rx="11" fill="#0E2E40"/>
-<text class="t fade" x="372.5" y="39" font-size="11" font-weight="700" fill="#38BDF8" text-anchor="middle">v1</text>
+<rect class="fade" x="354" y="24" width="36" height="22" rx="11" fill="#0E2E40"/>
+<text class="t fade" x="372.0" y="39" font-size="11" font-weight="700" fill="#38BDF8" text-anchor="middle" textLength="14" lengthAdjust="spacingAndGlyphs">v1</text>
 <text class="t fade d1" x="28" y="76" font-size="24" font-weight="800" fill="#F1F5F9">Knot</text>
 <text class="t fade d2" x="28" y="104" font-size="13.5" fill="#94A3B8">Every save becomes a real commit, synced</text>
 <text class="t fade d2" x="28" y="124" font-size="13.5" fill="#94A3B8">with no server. AI agents get scoped keys.</text>
-<g class="fade d3"><rect x="28" y="166" width="44" height="22" rx="11.0" fill="#0E2E40" stroke="#38BDF8" stroke-opacity=".35"/><text class="t" x="50.0" y="181.14" font-size="11.5" fill="#38BDF8" text-anchor="middle" font-weight="600">Rust</text>
-<rect x="78" y="166" width="58" height="22" rx="11.0" fill="#0E2E40" stroke="#38BDF8" stroke-opacity=".35"/><text class="t" x="107.0" y="181.14" font-size="11.5" fill="#38BDF8" text-anchor="middle" font-weight="600">libp2p</text>
-<rect x="142" y="166" width="64" height="22" rx="11.0" fill="#0E2E40" stroke="#38BDF8" stroke-opacity=".35"/><text class="t" x="174.0" y="181.14" font-size="11.5" fill="#38BDF8" text-anchor="middle" font-weight="600">Ed25519</text>
-<rect x="212" y="166" width="84" height="22" rx="11.0" fill="#0E2E40" stroke="#38BDF8" stroke-opacity=".35"/><text class="t" x="254.0" y="181.14" font-size="11.5" fill="#38BDF8" text-anchor="middle" font-weight="600">MCP server</text></g>
+<g class="fade d3"><rect x="28" y="166" width="46" height="22" rx="11.0" fill="#0E2E40" stroke="#38BDF8" stroke-opacity=".35"/><text class="t" x="51.0" y="181.14" font-size="11.5" fill="#38BDF8" text-anchor="middle" font-weight="600" textLength="28" lengthAdjust="spacingAndGlyphs">Rust</text>
+<rect x="80" y="166" width="60" height="22" rx="11.0" fill="#0E2E40" stroke="#38BDF8" stroke-opacity=".35"/><text class="t" x="110.0" y="181.14" font-size="11.5" fill="#38BDF8" text-anchor="middle" font-weight="600" textLength="42" lengthAdjust="spacingAndGlyphs">libp2p</text>
+<rect x="146" y="166" width="67" height="22" rx="11.0" fill="#0E2E40" stroke="#38BDF8" stroke-opacity=".35"/><text class="t" x="179.5" y="181.14" font-size="11.5" fill="#38BDF8" text-anchor="middle" font-weight="600" textLength="49" lengthAdjust="spacingAndGlyphs">Ed25519</text>
+<rect x="219" y="166" width="89" height="22" rx="11.0" fill="#0E2E40" stroke="#38BDF8" stroke-opacity=".35"/><text class="t" x="263.5" y="181.14" font-size="11.5" fill="#38BDF8" text-anchor="middle" font-weight="600" textLength="71" lengthAdjust="spacingAndGlyphs">MCP server</text></g>
 </svg>

@@ -10,28 +10,28 @@
 <text class="t" x="32" y="124" font-size="14" fill="#94A3B8">Private AI server for PC, Mac</text>
 <text class="t" x="32" y="143" font-size="14" fill="#94A3B8">and Linux. My PRs: macOS support,</text>
 <text class="t" x="32" y="162" font-size="14" fill="#94A3B8">installer, backup and rollback, CI.</text>
-<g><rect x="32" y="190" width="47" height="24" rx="12.0" fill="#0E3B2E" stroke="#34D399" stroke-opacity=".35"/><text class="t" x="55.5" y="206.32" font-size="12" fill="#34D399" text-anchor="middle" font-weight="600">Bash</text>
-<rect x="87" y="190" width="61" height="24" rx="12.0" fill="#0E3B2E" stroke="#34D399" stroke-opacity=".35"/><text class="t" x="117.5" y="206.32" font-size="12" fill="#34D399" text-anchor="middle" font-weight="600">Python</text>
-<rect x="156" y="190" width="61" height="24" rx="12.0" fill="#0E3B2E" stroke="#34D399" stroke-opacity=".35"/><text class="t" x="186.5" y="206.32" font-size="12" fill="#34D399" text-anchor="middle" font-weight="600">Docker</text>
-<rect x="225" y="190" width="33" height="24" rx="12.0" fill="#0E3B2E" stroke="#34D399" stroke-opacity=".35"/><text class="t" x="241.5" y="206.32" font-size="12" fill="#34D399" text-anchor="middle" font-weight="600">CI</text></g>
+<g><rect x="32" y="190" width="49" height="24" rx="12.0" fill="#0E3B2E" stroke="#34D399" stroke-opacity=".35"/><text class="t" x="56.5" y="206.32" font-size="12" fill="#34D399" text-anchor="middle" font-weight="600" textLength="29" lengthAdjust="spacingAndGlyphs">Bash</text>
+<rect x="89" y="190" width="64" height="24" rx="12.0" fill="#0E3B2E" stroke="#34D399" stroke-opacity=".35"/><text class="t" x="121.0" y="206.32" font-size="12" fill="#34D399" text-anchor="middle" font-weight="600" textLength="44" lengthAdjust="spacingAndGlyphs">Python</text>
+<rect x="161" y="190" width="64" height="24" rx="12.0" fill="#0E3B2E" stroke="#34D399" stroke-opacity=".35"/><text class="t" x="193.0" y="206.32" font-size="12" fill="#34D399" text-anchor="middle" font-weight="600" textLength="44" lengthAdjust="spacingAndGlyphs">Docker</text>
+<rect x="233" y="190" width="34" height="24" rx="12.0" fill="#0E3B2E" stroke="#34D399" stroke-opacity=".35"/><text class="t" x="250.0" y="206.32" font-size="12" fill="#34D399" text-anchor="middle" font-weight="600" textLength="14" lengthAdjust="spacingAndGlyphs">CI</text></g>
 
 <g>
   <rect x="304" y="34" width="164" height="182" rx="12" fill="#0B1220" stroke="#22314F"/>
-  <text class="t" x="322" y="112" font-size="42" font-weight="800" fill="#34D399">50+</text>
+  <text class="t" x="322" y="110" font-size="36" font-weight="800" fill="#34D399">50+</text>
   <text class="t" x="322" y="142" font-size="13" fill="#F1F5F9">merged pull requests</text>
   <text class="t" x="322" y="160" font-size="12" fill="#94A3B8">since Sep 2026</text>
 </g>
 
 <g>
   <rect x="482" y="34" width="164" height="182" rx="12" fill="#0B1220" stroke="#22314F"/>
-  <text class="t" x="500" y="112" font-size="42" font-weight="800" fill="#38BDF8">Top 10</text>
+  <text class="t" x="500" y="110" font-size="36" font-weight="800" fill="#38BDF8">Top 10</text>
   <text class="t" x="500" y="142" font-size="13" fill="#F1F5F9">of 63 contributors</text>
   <text class="t" x="500" y="160" font-size="12" fill="#94A3B8">by merged commits</text>
 </g>
 
 <g>
   <rect x="660" y="34" width="164" height="182" rx="12" fill="#0B1220" stroke="#22314F"/>
-  <text class="t" x="678" y="112" font-size="42" font-weight="800" fill="#FBBF24">6.9k</text>
+  <text class="t" x="678" y="110" font-size="36" font-weight="800" fill="#FBBF24">6.9k</text>
   <text class="t" x="678" y="142" font-size="13" fill="#F1F5F9">GitHub stars</text>
   <text class="t" x="678" y="160" font-size="12" fill="#94A3B8">on the project</text>
 </g>
