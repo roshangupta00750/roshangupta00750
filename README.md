@@ -1,31 +1,27 @@
-## Hi, I'm Roshan
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Roshan Kumar Gupta: M.Sc. Computer Science, JMU Würzburg. Open to working-student roles in ML and data." />
+</p>
 
-M.Sc. Computer Science student at Julius-Maximilians-Universität Würzburg, Germany. Before my Master's I spent four years in data roles: three years as a Business Intelligence Analyst at Amazon (CMT & Amazon Pay) and seven months as a Data Analyst at The Indian Garage Co. I'm looking for a working-student role in machine learning or data.
+<p align="center">
+  <a href="https://www.linkedin.com/in/roshan-kumar-gupta-a3a545107/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pointbreaklab.com"><img src="https://img.shields.io/badge/pointbreaklab.com-0B1220?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
+  <a href="https://huggingface.co/pointbreaklab"><img src="https://img.shields.io/badge/Hugging%20Face-0B1220?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
+  <a href="mailto:mail.roshankumargupta@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### What I'm building
+<a href="https://pointbreaklab.com/knot-ai/"><img src="assets/knot-ai.svg" width="100%" alt="Knot AI: Knot Scribe 7B, 60% commit-type accuracy; Knot Delta 9B, 98.5% fully grounded change reports" /></a>
 
-- **Knot AI**: two on-device models I trained.
-  - **Knot Scribe** (7B, LoRA fine-tune of Qwen2.5-Coder-7B) writes git commit messages. 60% type accuracy and 75% scope accuracy on a balanced held-out set. Open weights on [Hugging Face](https://huggingface.co/pointbreaklab/knot-scribe) and [Ollama](https://ollama.com/pointbreaklab/knot-ai).
-  - **Knot Delta** (9B) turns a diff into a grounded change-and-risk report. On 325 held-out commits from 9 unseen repos, every file it cites exists in the diff, and 98.5% of reports are fully grounded. [Hugging Face](https://huggingface.co/pointbreaklab/knot-delta)
-- **Research practicum at JMU**: benchmarking Transformer forecasters (TFT, PatchTST, iTransformer) against LSTM, XGBoost and DLinear for crop-yield prediction across about 400 German districts, 2003 to 2023.
-- **Apps at [pointbreaklab.com](https://pointbreaklab.com)**: Whispr (end-to-end encrypted messenger on the Signal Protocol, over LAN, Tor or Bluetooth mesh), Heart (on-device HRV analysis for Bluetooth heart-rate straps) and Knot (peer-to-peer version control in Rust).
+<p>
+  <img src="assets/research.svg" width="49%" alt="Crop-yield forecasting research practicum at JMU" />
+  <a href="https://pointbreaklab.com/knot/"><img src="assets/knot.svg" width="49%" alt="Knot: peer-to-peer version control in Rust" /></a>
+  <a href="https://pointbreaklab.com/whispr/"><img src="assets/whispr.svg" width="49%" alt="Whispr: serverless encrypted messenger on the Signal Protocol" /></a>
+  <a href="https://pointbreaklab.com/heart/"><img src="assets/heart.svg" width="49%" alt="Heart: on-device heart-rate analytics" /></a>
+</p>
 
-The source code for Knot, Whispr and Heart is private. The models and apps are public at the links above.
+<img src="assets/experience.svg" width="100%" alt="Before my Master's: Amazon BI Analyst and TIGC Data Analyst. 99.6% reporting accuracy, 60% faster KPI computation, 17.6M records, 33% retention uplift" />
 
-### Public repos here
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,rust,kotlin,flutter,dart,java,ts,postgres,mysql,mongodb,sqlite,docker,git,linux&perline=8&theme=dark" alt="Python, PyTorch, scikit-learn, Rust, Kotlin, Flutter, Dart, Java, TypeScript, PostgreSQL, MySQL, MongoDB, SQLite, Docker, Git, Linux" />
+</p>
 
-- [geckotestbed](https://github.com/roshangupta00750/geckotestbed): operator UI for the Gecko adhesion testbed (JMU and TU Berlin), Three.js
-- [Driverless-AI](https://github.com/roshangupta00750/Driverless-AI): self-driving car projects (lane finding, traffic-sign classification, behavioural cloning, Kalman filters, MPC)
-
-### Stack
-
-- **Data and ML:** Python, SQL, Pandas, NumPy, scikit-learn, PyTorch, XGBoost, ARIMA / Prophet, Power BI, Tableau, Alteryx
-- **LLMs:** QLoRA / PEFT fine-tuning, GGUF, llama.cpp, Hugging Face, Ollama, Model Context Protocol
-- **Software:** Rust, Kotlin, Flutter / Dart, Java, JavaScript / TypeScript, Git, Docker, Linux
-- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
-
-### Contact
-
-[LinkedIn](https://www.linkedin.com/in/roshan-kumar-gupta-a3a545107/) · [pointbreaklab.com](https://pointbreaklab.com) · mail.roshankumargupta@gmail.com
-
-Würzburg, Germany · English (fluent), Hindi (native), German (A2, actively learning B1)
+<p align="center"><sub>Source for Knot, Whispr and Heart is private; the apps and models are public at the links above.<br/>Würzburg, Germany · English · Hindi · German (A2, learning B1)</sub></p>

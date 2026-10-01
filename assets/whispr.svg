@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="210" viewBox="0 0 410 210" role="img">
+  <style>
+    .t { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .fade { opacity: 0; animation: fade .8s ease-out forwards; }
+    .d1 { animation-delay: .15s; } .d2 { animation-delay: .35s; }
+    .d3 { animation-delay: .55s; } .d4 { animation-delay: .75s; }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .fade { animation: none; opacity: 1; } }
+  </style>
+<rect x="1" y="1" width="408" height="208" rx="16" fill="#0F1729" stroke="#22314F"/>
+
+<rect x="0" y="0" width="6" height="210" fill="#2DD4BF" fill-opacity=".9" clip-path="url(#card)"/>
+<text class="t fade" x="28" y="40" font-size="10.5" font-weight="700" letter-spacing="1.8" fill="#2DD4BF">ENCRYPTED MESSENGER</text>
+<rect class="fade" x="276" y="24" width="114" height="22" rx="11" fill="#0E3B3A"/>
+<text class="t fade" x="333.0" y="39" font-size="11" font-weight="700" fill="#2DD4BF" text-anchor="middle">Live · v1.1.16</text>
+<text class="t fade d1" x="28" y="76" font-size="24" font-weight="800" fill="#F1F5F9">Whispr</text>
+<text class="t fade d2" x="28" y="104" font-size="13.5" fill="#94A3B8">Signal Protocol with no servers: LAN first,</text>
+<text class="t fade d2" x="28" y="124" font-size="13.5" fill="#94A3B8">then Tor or a Bluetooth mesh.</text>
+<g class="fade d3"><rect x="28" y="166" width="44" height="22" rx="11.0" fill="#0E3B3A" stroke="#2DD4BF" stroke-opacity=".35"/><text class="t" x="50.0" y="181.14" font-size="11.5" fill="#2DD4BF" text-anchor="middle" font-weight="600">X3DH</text>
+<rect x="78" y="166" width="111" height="22" rx="11.0" fill="#0E3B3A" stroke="#2DD4BF" stroke-opacity=".35"/><text class="t" x="133.5" y="181.14" font-size="11.5" fill="#2DD4BF" text-anchor="middle" font-weight="600">Double Ratchet</text>
+<rect x="195" y="166" width="38" height="22" rx="11.0" fill="#0E3B3A" stroke="#2DD4BF" stroke-opacity=".35"/><text class="t" x="214.0" y="181.14" font-size="11.5" fill="#2DD4BF" text-anchor="middle" font-weight="600">Tor</text>
+<rect x="239" y="166" width="71" height="22" rx="11.0" fill="#0E3B3A" stroke="#2DD4BF" stroke-opacity=".35"/><text class="t" x="274.5" y="181.14" font-size="11.5" fill="#2DD4BF" text-anchor="middle" font-weight="600">BLE mesh</text></g>
+</svg>
